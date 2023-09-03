@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<div>
-  <h4>Languages and Tools: 🔧</h4>
+<h4>Languages and Tools: 🔧</h4>
+<div align="center">  
   <h6>Front End</h6>
    HTML | CSS | Javascript | React | Bootstrap
   <h6>Back End</h6>
