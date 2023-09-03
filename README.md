@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <h1>Nancy Campbell</h1>
+  <h1>Nancy J Campbell</h1>
   <h3>Welcome! 👋 </h3>
 </div>
 <div align="center">
