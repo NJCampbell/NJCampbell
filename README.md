@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <li>Nature and the web of interconnectedness we share</li>
     <li>Neurodivergence and the unique gifts that accompany it</li>
   </ul>
-  I enjoy spending my free time playing video games, reading and spending time with my dog, Fox Mulder. 🐕 </p>
+  I enjoy spending my free time playing video games, practicing on my bass guitar, reading and spending time with my dog, Fox Mulder. 🐕 </p>
 
 
 </div>
