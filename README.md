@@ -13,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h4>About me: </h4>
 <p>I am a Full Stack Developer hailing from the woodland realm of Florida. 🌳 </p>
-<p>I absolutely love the feeling I get from building a project and seeing it all come together. Having spent many years creating art in a variety of styles and mediums, I now use programming as my paintbrush to color the world. A lifelong learner, I like to delve into a plethora of subjects and expand my knowledge, some of those topics include:
+<p>As an artist with a history of dabbling in various styles and mediums, I've swapped my canvas for code. Now, I paint the digital world with my programming palette. I'm a lifelong learner who can't resist diving into a treasure trove of subjects, including:
   <ul>
-    <li>Space and our ever-expanding cosmos</li>
-    <li>New and upcoming hardware and technology</li>
-    <li>Nature and the web of interconnectedness we share</li>
-    <li>Neurodivergence and the unique gifts that accompany it</li>
+    <li>🚀 Exploring the mysteries of space and our ever-expanding cosmos.</li>
+    <li>💡 Staying on the cutting edge of hardware and technology trends.</li>
+    <li>🌿 Nurturing a deep appreciation for nature and the intricate web of interconnectedness we all share.</li>
+    <li>🌌 Embracing neurodivergence and the unique gifts that come with it.</li>
   </ul>
-  I enjoy spending my free time playing video games, practicing on my bass guitar, reading and spending time with my dog, Fox Mulder. 🐕 </p>
+In my downtime, you'll often find me on virtual adventures in video games, jamming on my bass guitar, engrossed in a good book, or sharing the company of my faithful companion, Fox Mulder.  🐕 </p>
 
 
 </div>
