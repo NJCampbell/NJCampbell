@@ -3,7 +3,10 @@ NJCampbell/NJCampbell is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 <div align="center">
+  
   <h1>Nancy J Campbell</h1>
   <h3>Welcome! 👋 </h3>
 </div>
@@ -24,7 +27,14 @@ In my downtime, you'll often find me on virtual adventures in video games, jammi
 
 
 </div>
-<a href="https://www.linkedin.com/in/nancy-j-campbell/">My LinkedIn Profile</a>
+<div>
+  <p>Let's connect!</p>
+<a href="https://www.linkedin.com/in/nancy-j-campbell/">
+            <img  width="30px" height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          </a>
+
+</div>
+<br>
 
 <h4>Languages and Tools: 🔧</h4>
 <div align="center">
@@ -32,6 +42,8 @@ In my downtime, you'll often find me on virtual adventures in video games, jammi
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
+           
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
