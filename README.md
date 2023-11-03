@@ -24,7 +24,7 @@ In my downtime, you'll often find me on virtual adventures in video games, jammi
 
 
 </div>
-<a src="https://www.linkedin.com/in/nancy-j-campbell/">My LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/nancy-j-campbell/">My LinkedIn Profile</a>
 
 <h4>Languages and Tools: 🔧</h4>
 <div align="center">
